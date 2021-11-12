@@ -11,7 +11,7 @@ let image_list = document.getElementById("pokeimage");
 
 document.addEventListener("DOMContentLoaded", main);
 
-async function main()
+function main()
 {
     console.log("Loaded!");
 
